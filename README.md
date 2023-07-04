@@ -1,4 +1,8 @@
 # 3D Knowledge Graph
 
-- [Ideas](https://junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0001_Ideas.md)
-- [装修](https://junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0002_装修.md)
+<!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0001_Ideas.md :color=#1599d6 -->
+Ideas
+<!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0002_装修.md :color=#1599d6 -->
+装修
+<!-- ko-fi -->
