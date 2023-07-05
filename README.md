@@ -6,7 +6,10 @@ Ideas
 <!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0002_装修.md :color=#1599d6 -->
 装修
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0003_凡人修仙传.md :color=#1599d6 -->
+凡人修仙传
+<!-- ko-fi -->
 <!-- ko-fi :id=github.com/junxnone/tmdkg/issues/new :color=#1599d6 -->
 Create New KG
 <!-- ko-fi -->
-<kbd><sub>@0155130705</sub></kbd>
+<kbd><sub>@1024340705</sub></kbd>
