@@ -1,4 +1,4 @@
-# Ideas
+# [Ideas](https://github.com/junxnone/tmdkg/issues/1)
 - 历史
   - 农耕历史
   - 数学史
