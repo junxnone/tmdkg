@@ -12,7 +12,10 @@ Ideas
 <!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0004_CVRoadMap.md :color=#1599d6 -->
 CVRoadMap
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0005_AIRoadMap.md :color=#1599d6 -->
+AIRoadMap
+<!-- ko-fi -->
 <!-- ko-fi :id=github.com/junxnone/tmdkg/issues/new :color=#1599d6 -->
 Create New KG
 <!-- ko-fi -->
-<kbd><sub>@1622260717</sub></kbd>
+<kbd><sub>@0236430718</sub></kbd>
