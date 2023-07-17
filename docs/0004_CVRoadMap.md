@@ -1,4 +1,26 @@
 # [CVRoadMap](https://github.com/junxnone/tmdkg/issues/4)
-- CV
-  - Resize
-  - Histogram
+- OpenCV
+  - Core
+  - imgproc - Image Processing
+    - Image Filtering
+      - GaussianBlur
+      - bilateralFilter
+  - imgcodecs Image file reading and writing
+  - videoio
+  - highgui
+  - video
+  - calib3d
+  - features2d
+  - objdetect
+  - dnn
+  - ml
+  - flann
+  - photo
+  - stitching
+  - gapi
+- scikit-Image
+- TorchVision
+- MMCV
+- CV-CUDA
+- Numpy
+
