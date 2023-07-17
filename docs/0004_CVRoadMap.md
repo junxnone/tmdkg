@@ -1,8 +1,22 @@
 # [CVRoadMap](https://github.com/junxnone/tmdkg/issues/4)
 - OpenCV
   - Core
-  - imgproc - Image Processing
+  - imgproc Image Processing
     - Image Filtering
+      - blur normalized box filter
+      - boxFilter
+      - dilate
+      - erode
+      - filter2D
+      - Laplacian
+      - medianBlur
+      - morphologyEx
+      - pyrMeanShiftFiltering
+      - pyrUp
+      - Sobel
+      - spatialGradient
+      - sqrBoxFilter
+      - stackBlur
       - GaussianBlur
       - bilateralFilter
   - imgcodecs Image file reading and writing
