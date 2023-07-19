@@ -18,7 +18,10 @@ AIRoadMap
 <!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0006_车.md :color=#1599d6 -->
 车
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0007_上海景区.md :color=#1599d6 -->
+上海景区
+<!-- ko-fi -->
 <!-- ko-fi :id=github.com/junxnone/tmdkg/issues/new :color=#1599d6 -->
 Create New KG
 <!-- ko-fi -->
-<kbd><sub>@1618360719</sub></kbd>
+<kbd><sub>@2326010719</sub></kbd>
