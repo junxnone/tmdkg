@@ -24,4 +24,4 @@ AIRoadMap
 <!-- ko-fi :id=github.com/junxnone/tmdkg/issues/new :color=#1599d6 -->
 Create New KG
 <!-- ko-fi -->
-<kbd><sub>@2326010719</sub></kbd>
+<kbd><sub>@1618590720</sub></kbd>
