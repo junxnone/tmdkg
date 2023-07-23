@@ -1,4 +1,7 @@
 # [CVRoadMap](https://github.com/junxnone/tmdkg/issues/4)
+- Camera
+- Image
+- Video
 - OpenCV
   - Core
   - imgproc Image Processing
