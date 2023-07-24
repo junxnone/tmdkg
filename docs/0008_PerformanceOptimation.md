@@ -1,0 +1,16 @@
+# [PerformanceOptimation](https://github.com/junxnone/tmdkg/issues/8)
+- SIMD
+- LoopOptimation
+- Memory
+  - Align
+  - CacheLine
+- LIBS&Tools
+  - OpenMP
+  - OpenCL
+  - SYCL
+  - DPCPP
+  - OpenMPI
+  - TBB
+- DebugTools
+  - IntelVtune
+  - IntelAdvisor
