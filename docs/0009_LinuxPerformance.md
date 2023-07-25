@@ -15,6 +15,10 @@
   - htop
   - lscpu
   - ps
+  - dtrace
+  - kprobe
+  - eBPF
+  - bcc
 - Memory
   - free
   - glances
