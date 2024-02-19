@@ -35,6 +35,17 @@
   - photo
   - stitching
   - gapi
+    - backends
+      - cv-based
+      - Fluid
+      - OCL
+      - OpenVINO
+      - ONNX
+    - Graph Export
+    - Performance Test
+      - Latency
+      - Throughput
+      - Memory
 - scikit-Image
 - TorchVision
 - MMCV
