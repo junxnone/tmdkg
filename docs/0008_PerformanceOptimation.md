@@ -1,7 +1,8 @@
-# [Performance Optimation${ROOTLINK}
+# [Performance Optimization](https://github.com/junxnone/tmdkg/issues/8)
 - SIMD
-- Loop Optimation
-- Memory Optimation
+- Loop Optimization
+  - Merge
+- Memory Optimization
   - Align
   - CacheLine
   - Cache->Register
