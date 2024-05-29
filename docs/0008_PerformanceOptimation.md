@@ -1,4 +1,4 @@
-# [PerformanceOptimation](https://github.com/junxnone/tmdkg/issues/8)
+# [Performance](https://github.com/junxnone/tmdkg/issues/8)
 - SIMD
 - LoopOptimation
 - Memory
