@@ -30,7 +30,10 @@ LinuxPerformance
 <!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0010_食.md :color=#1599d6 -->
 食
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0011_线性代数.md :color=#1599d6 -->
+线性代数
+<!-- ko-fi -->
 <!-- ko-fi :id=github.com/junxnone/tmdkg/issues/new :color=#1599d6 -->
 Create New KG
 <!-- ko-fi -->
-<kbd><sub>@1622371229</sub></kbd>
+<kbd><sub>@1008261230</sub></kbd>
