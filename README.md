@@ -36,7 +36,10 @@ LinuxPerformance
 <!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0012_概率与信息论.md :color=#1599d6 -->
 概率与信息论
 <!-- ko-fi -->
+<!-- ko-fi :id=junxnone.github.io/jstools/md3dkg/?md=https://junxnone.github.io/tmdkg/docs/0013_PEFT.md :color=#1599d6 -->
+PEFT
+<!-- ko-fi -->
 <!-- ko-fi :id=github.com/junxnone/tmdkg/issues/new :color=#1599d6 -->
 Create New KG
 <!-- ko-fi -->
-<kbd><sub>@1625011230</sub></kbd>
+<kbd><sub>@1624151231</sub></kbd>
