@@ -1,4 +1,4 @@
-# [Ideas](https://github.com/junxnone/tmdkg/issues/1)
+# [Ideas](https://github.com/junxnone/tmdkg/issues/1)
 - 历史
   - 农耕历史
   - 数学史
@@ -16,8 +16,13 @@
 - 工匠
 - 投资
 - 分析数据
+  - 数据可视化
+  - 数据聚类
 - 自媒体
   - 直播
   - 视频
   - 博客
   - 音频
+- 教育
+  - 3D 教育
+  - 结构化教育
